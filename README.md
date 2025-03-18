@@ -109,7 +109,6 @@ Research and Reflection Journal for DGL 104 course
 2.	Structural DP – Adapter, Decorator, Façade, Composite
 3.	Behavioral DP – Observer, Strategy, Command, State
 
-## Week 10 Lecture
 ## Week 10 Class: MV Patterns
 **MV* refers to the collection of user interface architecture patterns using Model and View** 
 -  Model View Controller (MVC)  
