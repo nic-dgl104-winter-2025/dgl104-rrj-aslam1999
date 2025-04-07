@@ -582,6 +582,8 @@ class Notification:
 
 ```
 ````
+
+## Rest of the weeks, I have completely worked on my final project and this reflection journal.
 **Citations:**
 1. Class videos by Ashley for class content
 2. AI for examples
