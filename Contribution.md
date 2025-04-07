@@ -1,4 +1,4 @@
-# CONTRIBUTIONS.md
+# CONTRIBUTIONS DOCUMENT
 
 This document outlines my contributions to the Task Management System project, developed as part of our group effort. The project is a web-based application designed to manage tasks, leaves, and user roles (admin, team lead, and user) with a shared database.
 
